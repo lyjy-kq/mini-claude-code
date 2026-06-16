@@ -1,3 +1,4 @@
 .miniclaude.json
 mini-claude.exe
 docx/
+.mini-claude/session/
