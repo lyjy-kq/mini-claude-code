@@ -1,0 +1,7 @@
+{
+  "openai_api_key": "",
+  "openai_base_url": "https://api.deepseek.com",
+  "anthropic_api_key": "",
+  "anthropic_base_url": "",
+  "default_model": "deepseek-v4-flash"
+}

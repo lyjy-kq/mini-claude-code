@@ -1,0 +1,1 @@
+// Package memory 提供本地文件型记忆系统。
